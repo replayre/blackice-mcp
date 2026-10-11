@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "blackice": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/replayre/blackice-mcp",
+        "blackice-mcp"
+      ]
+    }
+  }
+}
